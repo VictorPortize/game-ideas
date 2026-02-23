@@ -1,0 +1,6 @@
+O Jogo é sobre ficar vivo pelo maior tempo possível, conseguir estudar e conseguir passar na prova escolar.
+
+- Você escolhe de forma direta ou indireta o que vai te matar.
+- Cada dia tem 3 fases ( Dia, Tarde, Noite )
+    - Você pode transitar pelos locais durante as fases.
+

@@ -1,0 +1,6 @@
+Um jogo sobre você ser um enfermeiro num hospital que parece ser normal, você desce os andares do hospital e passa pela lista de tarefas que precisa ser feita em casa andares
+
+- Cada andar você precisa fazer certas tarefas
+- A cada andar as coisas vão ficando mais estranhas e assustadoras
+- A cada andar as opções de como fazer o procedimento aumentam, assim como as ferramentas
+- Cada andar o personagem parece estar ficando mais louco.
